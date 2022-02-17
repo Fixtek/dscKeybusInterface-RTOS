@@ -98,7 +98,7 @@ This example installs all components to the `esp` directory in your home directo
   1. Install required packages:    
       ```
       ~/esp$ sudo apt install make unrar-free autoconf automake libtool gcc g++ gperf \
-      flex bison texinfo gawk ncurses-dev libexpat-dev python-dev python python-serial \
+      flex bison texinfo gawk ncurses-dev libexpat-dev python-dev python python2.7-serial \
       sed git unzip bash help2man wget bzip2 libtool-bin
       ```
 
